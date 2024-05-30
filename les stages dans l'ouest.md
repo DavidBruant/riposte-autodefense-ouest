@@ -1,6 +1,5 @@
 ---
 title: "Les stages dans l'Ouest"
-order: 4
+order: 2
 in_menu: true
 ---
- 
