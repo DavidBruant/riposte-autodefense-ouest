@@ -26,5 +26,8 @@ Cette forme d’autodéfense est adaptée à toutes, quel que soit son âge et s
 
 Pour en savoir plus sur Riposte : [association ARCAF](https://assoarcaf.wordpress.com/riposte/){:target="_blank" }
 
+Envie de participer ou d'organiser un stage ? C'est par ici 
+
+Pour nous contacter : c'est par là 
 
 _*Les interventions Riposte sont pensées pour les femmes (cis et trans) et les personnes perçues, assignées femmes, en tant que groupe ciblé par des agressions spécifiques. Une question à ce sujet ? Vous vous demandez si le stage est adapté à vous ou à une personne que vous connaissez ? Prenez contact avec nous !_ 
