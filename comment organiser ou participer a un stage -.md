@@ -23,7 +23,7 @@ Les stages sont accessibles à partir de 16 ans. Pour les stages pour les adoles
 
 ### Je veux organiser un stage 
 
-- Vous avez envie d'organiser un stage au sein de votre structure (association, entreprise, maison de quartier, centre socio-culturel...) : contactez-nous ! (lien) Nous animons des stages à partir de 10 personnes. 
+- Vous avez envie d'organiser un stage au sein de votre structure (association, entreprise, maison de quartier, centre socio-culturel...) : contactez-nous ! (lien) Nous animons des stages à partir de 10 personnes et jusqu'à 15 personnes. 
 - Les stages et interventions peuvent s'adresser à toutes, ou à des personnes partageant un même vécu (violences conjugales, violences racistes, contexte professionnel...).
 - L'organisation de stages au titre de la formation professionnelle continue est également possible.
 - Des stages adaptés pour les participantes sourdes et malentendantes, ou en situation de handicap physique et maladies chroniques invalidantes, ou aveugles et malvoyantes ou en situation de handicap cognitif sont possibles avec nos collègues de l'ARCAF : contactez-les ici (lien)
