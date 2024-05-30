@@ -10,7 +10,7 @@ Le but de l'autodéfense est de prévenir les agressions. Cela passe par acquér
 
 Cette forme d’autodéfense est adaptée à toutes, quel que soit son âge et sa condition physique. Nos interventions prennent en compte les différents vécus des participantes et les violences spécifiques qui sont liés à l'origine, l'orientation sexuelle, la religion, l'identité de genre, les capacités physiques, la couleur de peau, l'âge... 
 
-![4 femmes de profil]({% link images/Riposte-affiche-01-g-f-72_sans bulle_transparent.png %})
+![4 femmes de profil]({% link images/Riposte-affiche-01-g-f-72_sans bulle_transparent_450.png %})
 
 ## Ce qui est abordé dans nos interventions : 
 - Apprendre à reconnaître différents types d'agression
