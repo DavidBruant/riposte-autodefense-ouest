@@ -10,6 +10,7 @@ Le but de l'autodéfense est de prévenir les agressions. Cela passe par acquér
 
 Cette forme d’autodéfense est adaptée à toutes, quel que soit son âge et sa condition physique. Nos interventions prennent en compte les différents vécus des participantes et les violences spécifiques qui sont liés à l'origine, l'orientation sexuelle, la religion, l'identité de genre, les capacités physiques, la couleur de peau, l'âge... 
 
+![4 femmes de profil]({% link images/Riposte-affiche-01-g-f-72_sans bulle_transparent.png %})
 
 ## Ce qui est abordé dans nos interventions : 
 - Apprendre à reconnaître différents types d'agression
@@ -22,5 +23,6 @@ Cette forme d’autodéfense est adaptée à toutes, quel que soit son âge et s
 - Se reconnecter à sa confiance en soi et à ses ressources
 
 Pour en savoir plus sur Riposte : [association ARCAF] (https://assoarcaf.wordpress.com/riposte/)
+
 
 _*Les interventions Riposte sont pensées pour les femmes (cis et trans) et les personnes perçues, assignées femmes, en tant que groupe ciblé par des agressions spécifiques. Une question à ce sujet ? Vous vous demandez si le stage est adapté à vous ou à une personne que vous connaissez ? Prenez contact avec nous !_ 
