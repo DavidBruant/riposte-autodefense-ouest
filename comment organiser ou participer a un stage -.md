@@ -3,15 +3,29 @@ title: "Comment organiser ou participer à un stage ?"
 order: 1
 in_menu: true
 ---
-L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
+Un stage Riposte dure 2 jours : différentes formules sont possibles : 
+- deux journées à suivre
+- deux journées séparées d'une semaine (deux samedis à suivre par exemple)
+- en 4 ou 5 demi-journées (5 après-midis d'une même semaine, ou 4 mercredis matins à suivre par exemple)
 
-## Nos activités
+Ces différentes formules permettent de s'adapter aux contraintes des différents publics (disponibilité, fatigue...).
+Nous proposons également des animations plus courtes (de 1h30 à une demi-journée) pour découvrir l'autodéfense avant de s'engager sur un stage. 
 
-A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
+Les stages sont accessibles à partir de 16 ans. Pour les stages pour les adolescentes, rendez-vous en page contacts pour d'autres ressources ! (lien)
 
-- Accompagnement à la **création de structures** juridiques
-- Conception, développement et accompagnement de **produits innovants**
-- **Formation** d’enfants et d’adultes, par exemple dans les domaines de la communication non-violente, méthodologie lean et approche agile, les relations aux animaux, l’alimentation, la gestion de budget familial ou d’entreprise…
-- Projets à **impact environnemental positif**
-- Projets à **impact social positif**
-- Vente d’objets ou de denrées alimentaires, avec **impact humain ou environnemental positif** 
+![Un groupe de femmes d'âges divers assises en cercle]({% link images/02-f-72.png %})
+
+### Je veux participer à un stage 
+
+- Voir le calendrier des prochains stages dans l'Ouest (lien page les Stages dans l'Ouest)
+- Je m'inscris à la liste de diffusion pour être tenue au courant des prochains stages
+
+
+### Je veux organiser un stage 
+
+- Vous avez envie d'organiser un stage au sein de votre structure (association, entreprise, maison de quartier, centre socio-culturel...) : contactez-nous ! (lien) Nous animons des stages à partir de 10 personnes. 
+- Les stages et interventions peuvent s'adresser à toutes, ou à des personnes partageant un même vécu (violences conjugales, violences racistes, contexte professionnel...).
+- L'organisation de stages au titre de la formation professionnelle continue est également possible.
+- Des stages adaptés pour les participantes sourdes et malentendantes, ou en situation de handicap physique et maladies chroniques invalidantes, ou aveugles et malvoyantes ou en situation de handicap cognitif sont possibles avec nos collègues de l'ARCAF : contactez-les ici (lien)
+
+![Une femme en fauteuil roulant frappe avec force dans un coussin tenu par une autre femme]({% link images/04-f-72.png %}) 
