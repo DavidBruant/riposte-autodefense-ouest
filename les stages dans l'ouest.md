@@ -12,8 +12,8 @@ contactez directement les structures qui organisent les stages pour vous inscrir
 
 
 #### Autres stages en France : 
-*[Stages Riposte en Ile-de-France](https://assoarcaf.wordpress.com/riposte/stages/)
+- [Stages Riposte en Ile-de-France](https://assoarcaf.wordpress.com/riposte/stages/)
 
-*[Stages Riposte à Marseille et en Provence-Alpes-Côte d'Azur](https://assoarcaf.wordpress.com/riposte/stages-a-marseille-et-paca/)
+- [Stages Riposte à Marseille et en Provence-Alpes-Côte d'Azur](https://assoarcaf.wordpress.com/riposte/stages-a-marseille-et-paca/)
 
-*[Autres associations et animateurices d'autodéfense en France, en Belgique et en Suisse](https://assoarcaf.wordpress.com/liens/) 
+- [Autres associations et animateurices d'autodéfense en France, en Belgique et en Suisse](https://assoarcaf.wordpress.com/liens/) 
