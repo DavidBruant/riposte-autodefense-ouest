@@ -19,15 +19,15 @@ Cette forme d’autodéfense est adaptée à toutes, quel que soit son âge et s
 
 - Découvrir et pratiquer des stratégies d'autodéfense physique et verbale
 
-- S'outiller pour réagir en cas d'agression par des personnes proches, connues ou inconnues
+- S'outiller pour réagir en cas d'agression par des personnes inconnues, connues ou proches
 
 - Identifier ses limites et les manières de les faire respecter
 - Se reconnecter à sa confiance en soi et à ses ressources
 
 Pour en savoir plus sur Riposte : [association ARCAF](https://assoarcaf.wordpress.com/riposte/){:target="_blank" }
 
-Envie de participer ou d'organiser un stage ? C'est par ici 
+Envie de [participer ou d'organiser un stage ? C'est par ici](https://riposte-autodefense-ouest-paulineduautodef-fa95a8b93a04e3e2831a.gitlab.io/comment%20organiser%20ou%20participer%20a%20un%20stage%20-.html) 
 
-Pour nous contacter : c'est par là 
+Pour [nous contacter : c'est par là](https://riposte-autodefense-ouest-paulineduautodef-fa95a8b93a04e3e2831a.gitlab.io/contact.html) 
 
 _*Les interventions Riposte sont pensées pour les femmes (cis et trans) et les personnes perçues, assignées femmes, en tant que groupe ciblé par des agressions spécifiques. Une question à ce sujet ? Vous vous demandez si le stage est adapté à vous ou à une personne que vous connaissez ? Prenez contact avec nous !_ 
