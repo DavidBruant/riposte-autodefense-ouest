@@ -3,7 +3,7 @@ title: "Contact"
 order: 3
 in_menu: true
 ---
-**Pour des interventions en Pays de la Loire** 44, 49, 85, 53, 72 **et en Bretagne**  35, 22, 56
+### **Pour des interventions en Pays de la Loire** 44, 49, 85, 53, 72 **et en Bretagne**  35, 22, 56
 
 **Pauline :** pauline.autodefense@lilo.org   
 07 49 59 93 32
@@ -16,8 +16,7 @@ in_menu: true
 
 
 
-**Nos collègues en Bretagne** 29, 56, 22, 35, 44
-
+#### **Nos collègues en Bretagne** Finistère, Morbihan, Côtes-d'Armor
 **Joun** : adf.joun@gmail.com
 
 
