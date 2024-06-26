@@ -3,7 +3,7 @@ title: "Contact"
 order: 3
 in_menu: true
 ---
-#### **Pour des interventions en Pays de la Loire**  et en **Bretagne**  Finistère, Morbihan, Côtes-d'Armor
+#### **Pour des interventions en Pays de la Loire**  et en **Bretagne**  Ille-et-Vilaine, Morbihan, Côtes-d'Armor
 
 **Pauline :** pauline.autodefense@lilo.org   
 07 49 59 93 32 (Joignable du lundi 14h au vendredi 12h30)
