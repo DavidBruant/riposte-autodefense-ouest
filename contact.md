@@ -16,7 +16,7 @@ in_menu: true
 
 **Nos collègues en Bretagne** 29,56,22,35,44
 
-Joun : adf.joun@gmail.com
+**Joun** : adf.joun@gmail.com
 
 
-Zila : cj-autodefense@riseup.net 
+**Zila** : cj-autodefense@riseup.net 
