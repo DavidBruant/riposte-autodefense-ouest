@@ -5,6 +5,8 @@ in_menu: true
 ---
 #### **Pour des interventions en Pays de la Loire**  et en **Bretagne** Ille-et-Vilaine, Morbihan, Côtes-d'Armor
 
+Pour nous contacter toutes les deux : contact@riposte-ouest.fr
+
 **Pauline :** pauline.autodefense@lilo.org   
 07 49 59 93 32 (Joignable du lundi 14h au vendredi 12h30)
 
@@ -16,6 +18,7 @@ Pauline anime des stages
 
 **Meryem :** meryem.autodefense@protonmail.com   
 06 86 63 62 31
+
 Meryem anime des stages
 - « tout public »
 - Milieu festif
@@ -30,7 +33,7 @@ Meryem anime des stages
 
 **Joun** : adf.joun@gmail.com
 
-Joun anime des stages
+Joun anime des stages : 
 - « tout public »
 - Milieu professionnel 
 - Milieu festif
@@ -44,7 +47,7 @@ Joun anime des stages
 **Zila** : cj-autodefense@riseup.net 
 06 15 41 81 78 (Joignable les mardis et mercredis)
 
-Zila anime également en breton et espagnol
+Zila anime des stages : 
 - « tout public »
 - Femmes victimes de violences conjugales
 - Milieu professionnel
@@ -52,3 +55,4 @@ Zila anime également en breton et espagnol
 - Personnes LGBTQIA+
 - Stages adolescentes (12-14 ans ou 14-16 ans)
 - Stages enfants (8-10 ans ou 10-12 ans) 
+- Zila anime également ces stages en breton et espagnol 
