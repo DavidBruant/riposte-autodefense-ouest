@@ -56,3 +56,7 @@ Zila anime des stages :
 - Stages adolescentes (12-14 ans ou 14-16 ans)
 - Stages enfants (8-10 ans ou 10-12 ans) 
 - Zila anime également ces stages en breton et espagnol 
+
+
+
+_Crédit illustrations : Édith Kurosaka_ 
