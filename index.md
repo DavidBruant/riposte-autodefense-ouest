@@ -3,7 +3,7 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-# Riposte - autodéfense pour les femmes 
+# Riposte - autodéfense pour les femmes 4 femmes de profil
 
 ![4 femmes de profil]({% link images/Riposte-affiche-extrait.png %})
 
