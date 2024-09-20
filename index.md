@@ -5,7 +5,7 @@ in_menu: true
 ---
 # Riposte - autodéfense pour les femmes 
 
-![4 femmes de profil]({% link images/Riposte-affiche-01-g-f-72_sans bulle_transparent_450.png %})
+![4 femmes de profil]({% link images/Riposte-affiche-extrait.png %})
 
 Nous proposons des stages d'autodéfense pour les femmes* dans l'Ouest de la France. 
 Le but de l'autodéfense est de prévenir les agressions. Cela passe par acquérir les moyens de se défendre, de prendre conscience de sa force et de (re)prendre confiance en soi. 
