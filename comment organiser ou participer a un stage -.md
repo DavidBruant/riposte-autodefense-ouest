@@ -18,14 +18,18 @@ Les stages sont accessibles à partir de 16 ans, et sont adaptés quel que soit 
 ### Vous voulez participer à un stage 
 
 - Voir le [calendrier des prochains stages dans l'Ouest](https://riposte-autodefense-ouest-paulineduautodef-fa95a8b93a04e3e2831a.gitlab.io/les%20stages%20dans%20l'ouest.html) 
-- Je m'inscris à la liste de diffusion pour être tenue au courant des prochains stages
+
+- Je m'inscris à la liste de diffusion pour être tenue au courant des prochains stages : https://riposteouest.substack.com/ 
 
 
 ### Vous voulez organiser un stage 
 
 - Vous avez envie d'organiser un stage au sein de votre structure (association, entreprise, maison de quartier, centre socio-culturel...) : [contactez-nous !](https://riposte-autodefense-ouest-paulineduautodef-fa95a8b93a04e3e2831a.gitlab.io/contact.html) Nous animons des stages à partir de 10 personnes et jusqu'à 15 personnes. 
+
 - Les stages et interventions peuvent s'adresser à toutes, ou à des personnes partageant un même vécu (violences conjugales, violences racistes, contexte professionnel...).
+
 - L'organisation de stages au titre de la formation professionnelle continue est également possible.
+
 - Des stages adaptés pour les participantes sourdes et malentendantes, ou en situation de handicap physique et maladies chroniques invalidantes, ou aveugles et malvoyantes ou en situation de handicap cognitif sont possibles avec [nos collègues de l'ARCAF : retrouvez leurs contacts ici](https://assoarcaf.wordpress.com/)
 
 ![Une femme en fauteuil roulant frappe avec force dans un coussin tenu par une autre femme]({% link images/04-f-72.png %}) 
