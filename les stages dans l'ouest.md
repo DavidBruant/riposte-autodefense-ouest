@@ -7,7 +7,7 @@ in_menu: true
 
 (Contactez directement les structures qui organisent les stages pour vous inscrire)  
 
-Stage à Bruz (35) avec le Centre social L'Escale les 29 et 30 mars 2025 Pour s'inscrire (priorité aux habitantes de Bruz puis aux habitantes de Rennes Métropole) : info à venir
+Stage à Bruz (35) avec le Centre social L'Escale les 29 et 30 mars 2025 Pour s'inscrire (stage gratuit pour les participantes. Priorité aux habitantes de Bruz puis aux habitantes de Rennes Métropole) : Charlotte, animatrice du Centre social : animation@escale-bruz.fr ou 06 12 63 76 95
 
 Stages à venir en Maine-et-Loire avec l'association Corps à Cœur en juin et septembre 2025. Pour être tenue au courant et s'inscrire : corpsacoeur49@gmail.com
 
