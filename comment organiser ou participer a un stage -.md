@@ -19,9 +19,9 @@ Les stages sont accessibles à partir de 16 ans, et sont adaptés quel que soit 
 
 - Voir le [calendrier des prochains stages dans l'Ouest](https://riposte-autodefense-ouest-paulineduautodef-fa95a8b93a04e3e2831a.gitlab.io/les%20stages%20dans%20l'ouest.html) 
 
--S'inscrire à la liste de diffusion pour être tenue au courant des prochains stages : https://riposteouest.substack.com/ 
+-S'inscrire à la liste de diffusion pour être tenue au courant des prochains stages : [inscription liste](https://riposteouest.substack.com/)
 
-- Écouter d'anciennes participantes qui témoignent du stage et de ses effets (podcast de 10 minutes) : https://www.nous-vous-ille.fr/devivevoix-riposte 
+- Écouter d'anciennes participantes qui témoignent du stage et de ses effets (podcast de 10 minutes) : [podcast De Vive Voix Riposte](https://www.nous-vous-ille.fr/devivevoix-riposte) 
 
 ### Vous voulez organiser un stage 
 
