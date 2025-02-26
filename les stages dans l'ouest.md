@@ -16,6 +16,7 @@ et [inscription via Hello Asso](https://www.helloasso.com/associations/associati
 
 **Stages à venir en Maine-et-Loire avec l'association Corps à Cœur en juin et septembre 2025**. Pour être tenue au courant et s'inscrire : corpsacoeur49@gmail.com
 
+![Affiche événements 8 mars à Bruz : dessin d'un groupe de femmes toutes différentes levant le poing]({% link images/Affiche-A3-droits-femmes-2025-petite.png %})
 
 #### Autres stages d'autodéfense en inscription libre dans l'Ouest : 
 Pas de dates fixées à ce jour. 
