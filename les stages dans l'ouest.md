@@ -19,7 +19,7 @@ et [inscription via Hello Asso](https://www.helloasso.com/associations/associati
 ![Affiche événements 8 mars à Bruz : dessin d'un groupe de femmes toutes différentes levant le poing]({% link images/Affiche-A3-droits-femmes-2025-petite.png %})
 
 #### Autres stages d'autodéfense en inscription libre dans l'Ouest : 
-Pas de dates fixées à ce jour. 
+Pas de dates fixées à ce jour. Nous sommes à la recherche d'une salle en région nantaise mise à disposition gratuitement ou à faible prix pour organiser des stages à l'automne 2025. [Contactez-nous](https://riposte-autodefense-ouest-paulineduautodef-fa95a8b93a04e3e2831a.gitlab.io/contact.html) si vous avez une proposition ! 
 
 #### Autres stages en France : 
 - [Stages Riposte en Ile-de-France](https://assoarcaf.wordpress.com/riposte/stages/)
