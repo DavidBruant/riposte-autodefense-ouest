@@ -3,7 +3,7 @@ title: "Contact"
 order: 3
 in_menu: true
 ---
-#### **Pour des interventions en Pays de la Loire**  et en **Bretagne** Ille-et-Vilaine, Morbihan, Côtes-d'Armor
+#### **Pour des interventions en Loire-Atlantique, Pays de la Loire**  et en **Bretagne** (Ille-et-Vilaine, Morbihan prioritairement)
 
 Pour nous contacter toutes les deux : contact@riposte-ouest.fr
 
@@ -58,5 +58,16 @@ Zila anime des stages :
 - Zila anime également ces stages en breton et espagnol 
 
 
+**Léo** : leofreslonleo@gmail.com
+
+Léo (personne non binaire) anime des stages :
+
+- « tout public »
+- Femmes victimes de violences conjugales
+- Milieu professionnel
+- Milieu festif
+- Personnes LGBTQIA+
+- Stages adolescentes (12-14 ans ou 14-16 ans)
+- Stages enfants (8-10 ans ou 10-12 ans)
 
 _Crédit illustrations : Édith Kurosaka_ 
