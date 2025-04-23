@@ -12,7 +12,7 @@ Le but de l'autodéfense est de prévenir les agressions. Cela passe par acquér
 
 Cette forme d’autodéfense est adaptée à toutes, quel que soit son âge et sa condition physique. Nos interventions prennent en compte les différents vécus des participantes et les violences spécifiques qui sont liés à l'origine, l'orientation sexuelle, la religion, l'identité de genre, les capacités physiques, la couleur de peau, l'âge... 
 
-<a href="https://riposte-autodefense-ouest-paulineduautodef-fa95a8b93a04e3e2831a.gitlab.io/les%20stages%20dans%20l'ouest.html" class="bouton">Voir les prochaines stages</a>
+<a href="https://riposte-autodefense-ouest-paulineduautodef-fa95a8b93a04e3e2831a.gitlab.io/les%20stages%20dans%20l'ouest.html" class="bouton">Voir les prochains stages</a>
 
 <a href="https://riposteouest.substack.com/" class="bouton">S'abonner à la liste d'info pour recevoir les dates par mail</a>
 
