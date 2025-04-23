@@ -59,6 +59,7 @@ Zila anime des stages :
 
 
 **Léo** : leofreslonleo@gmail.com
+Site : https://www.autodefense-feministe.com/ (commun à Zila et Léo)
 
 Léo (personne non binaire) anime des stages :
 
