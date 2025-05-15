@@ -8,9 +8,9 @@ in_menu: true
 Pour nous contacter toutes les deux : contact@riposte-ouest.fr
 
 **Pauline :** pauline.autodefense@lilo.org   
-07 49 59 93 32 (Joignable du lundi 14h au vendredi 12h30)
+07 49 59 93 32
 
-Pauline anime des stages
+Pauline anime des stages :
 - « tout public »
 - Femmes victimes de violences conjugales
 - Milieu professionnel / stage au titre de la formation professionnelle continue
@@ -19,7 +19,7 @@ Pauline anime des stages
 **Meryem :** meryem.autodefense@protonmail.com   
 06 86 63 62 31
 
-Meryem anime des stages
+Meryem anime des stages : 
 - « tout public »
 - Milieu festif
 - Milieu professionnel
