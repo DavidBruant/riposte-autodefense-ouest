@@ -7,15 +7,19 @@ in_menu: true
 
 (Contactez directement les structures qui organisent les stages pour vous inscrire)  
 
-
 **Stages à venir en Maine-et-Loire avec l'association Corps à Cœur en juin et septembre 2025**. Pour être tenue au courant et s'inscrire : corpsacoeur49@gmail.com
 
-![Affiche événements 8 mars à Bruz : dessin d'un groupe de femmes toutes différentes levant le poing]({% link images/Affiche-A3-droits-femmes-2025-petite.png %})
+**Stages en Loire-Atlantique à l'automne 2025**
 
-#### Autres stages d'autodéfense en inscription libre dans l'Ouest : 
-Pas de dates fixées à ce jour. Nous sommes à la recherche d'une salle en région nantaise mise à disposition gratuitement ou à faible prix pour organiser des stages à l'automne 2025. [Contactez-nous](https://riposte-autodefense-ouest-paulineduautodef-fa95a8b93a04e3e2831a.gitlab.io/contact.html) si vous avez une proposition ! 
+Infos et inscriptions : nous à écrire à contact@riposte-ouest.fr
+
+- Dans la région de Châteaubriant les 27 et 28 septembre
+- À Nantes en octobre, novembre et/ou décembre (2 stages à venir, les dates arrivent prochainement !)
+
 
 #### Autres stages en France : 
+- [Stages dans l'Ouest](https://www.autodefense-feministe.com/) (par nos collègues du Finistère et des Côtes d'Armor)
+
 - [Stages Riposte en Ile-de-France](https://assoarcaf.wordpress.com/riposte/stages/)
 
 - [Stages Riposte à Marseille et en Provence-Alpes-Côte d'Azur](https://assoarcaf.wordpress.com/riposte/stages-a-marseille-et-paca/)
