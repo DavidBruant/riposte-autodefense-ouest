@@ -1,5 +1,5 @@
 ---
-title: "Lutte contre les violences faites aux femmes et aux personnes lgbtqia autres propositions et ressources"
+title: "Lutte contre les violences ++"
 order: 5
 in_menu: true
 ---
